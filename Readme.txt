@@ -1,0 +1,2 @@
+Execute this command in your run window (windows + R) and after opening chrome, you can open index.html file in your browser.
+- chrome.exe --user-data-dir="C://Chrome dev session" --disable-web-security
